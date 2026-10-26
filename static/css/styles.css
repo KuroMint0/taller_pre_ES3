@@ -14,6 +14,10 @@ footer {
     background-color: #fff;
 }
 
+.product-detail-placeholder {
+    min-height: 320px;
+}
+
 .product-card {
     overflow: hidden;
     color: inherit;
